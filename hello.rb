@@ -1,1 +1,2 @@
-puts "hello ruby world!"
+puts "hello world!"
+puts "hello ruby!"
