@@ -1,2 +1,1 @@
-puts "hello world!"
-puts "hello ruby!"
+puts "I'm tired"
